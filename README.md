@@ -42,6 +42,7 @@ Linear Regression is of mainly two types: Simple Linear Regression and Multiple 
 
 * Python Code
 
+```
 #Import Library
 #Import other necessary libraries like pandas, numpy...
 from sklearn import linear_model
@@ -60,10 +61,11 @@ print('Coefficient: \n', linear.coef_)
 print('Intercept: \n', linear.intercept_)
 #Predict Output
 predicted= linear.predict(x_test)
-
+```
 
 * R Code
 
+```
 #Load Train and Test datasets
 #Identify feature and response variable(s) and values must be numeric and numpy arrays
 x_train <- input_variables_values_training_datasets
@@ -75,4 +77,4 @@ linear <- lm(y_train ~ ., data = x)
 summary(linear)
 #Predict Output
 predicted= predict(linear,x_test) 
- 
+```
