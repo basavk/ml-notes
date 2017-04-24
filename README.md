@@ -2,6 +2,7 @@
 * http://yerevann.com/a-guide-to-deep-learning/
 * https://www.reddit.com/r/deeplearners/comments/4yspk7/list_of_resources/
 * https://github.com/ChristosChristofidis/awesome-deep-learning
+* https://www.quora.com/How-do-I-learn-deep-learning-in-2-months
 
 # Apr-21:
 
