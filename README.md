@@ -1,6 +1,8 @@
-# Apr-21:
-
+# Links
 http://yerevann.com/a-guide-to-deep-learning/
+https://www.reddit.com/r/deeplearners/comments/4yspk7/list_of_resources/
+
+# Apr-21:
 
 https://www.scipy.org/getting-started.html
 
