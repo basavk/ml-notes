@@ -4,6 +4,7 @@
 * https://github.com/ChristosChristofidis/awesome-deep-learning
 * https://www.quora.com/How-do-I-learn-deep-learning-in-2-months
 * http://www.datasciencecentral.com/profiles/blogs/open-source-deep-learning-frameworks-and-visual-analytics
+* https://devblogs.nvidia.com/parallelforall/dgx-1-fastest-deep-learning-system/
 
 # Apr-21:
 
