@@ -7,6 +7,7 @@
 * https://devblogs.nvidia.com/parallelforall/dgx-1-fastest-deep-learning-system/
 * http://www.datasciencebowl.com/
 * http://www.datasciencecentral.com/profiles/blogs/deep-learning-cheat-sheet-using-python-libraries
+* http://web.mit.edu/18.06/www/videos.shtml
 
 # Apr-21:
 
