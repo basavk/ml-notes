@@ -109,6 +109,8 @@ Now, you may ask, why take a log? For the sake of simplicity, let’s just say t
 
 Logistic_RegressionPython Code
 
+* Python Code
+
 ```
 #Import Library
 from sklearn.linear_model import LogisticRegression
@@ -123,7 +125,9 @@ print('Coefficient: \n', model.coef_)
 print('Intercept: \n', model.intercept_)
 #Predict Output
 predicted= model.predict(x_test)
-R Code
+
+* R Code
+
 ```
 
 ```
