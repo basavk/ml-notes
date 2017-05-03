@@ -72,6 +72,7 @@ print('Intercept: \n', linear.intercept_)
 predicted= linear.predict(x_test)
 ```
 
+
 * R Code
 
 ```
@@ -125,10 +126,9 @@ print('Coefficient: \n', model.coef_)
 print('Intercept: \n', model.intercept_)
 #Predict Output
 predicted= model.predict(x_test)
+```
 
 * R Code
-
-```
 
 ```
 x <- cbind(x_train,y_train)
